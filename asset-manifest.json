@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%20//Omegha007.github.io/my-portfolio/static/css/main.c55bdca2.css",
-    "main.js": "/%20//Omegha007.github.io/my-portfolio/static/js/main.8f7fbabe.js",
-    "static/js/787.f91f1cc7.chunk.js": "/%20//Omegha007.github.io/my-portfolio/static/js/787.f91f1cc7.chunk.js",
-    "static/media/HeroImage.png": "/%20//Omegha007.github.io/my-portfolio/static/media/HeroImage.52287cc9feeb145974ba.png",
-    "index.html": "/%20//Omegha007.github.io/my-portfolio/index.html",
-    "main.c55bdca2.css.map": "/%20//Omegha007.github.io/my-portfolio/static/css/main.c55bdca2.css.map",
-    "main.8f7fbabe.js.map": "/%20//Omegha007.github.io/my-portfolio/static/js/main.8f7fbabe.js.map",
-    "787.f91f1cc7.chunk.js.map": "/%20//Omegha007.github.io/my-portfolio/static/js/787.f91f1cc7.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.c55bdca2.css",
+    "main.js": "/my-portfolio/static/js/main.e1e707ee.js",
+    "static/js/787.f91f1cc7.chunk.js": "/my-portfolio/static/js/787.f91f1cc7.chunk.js",
+    "static/media/HeroImage.png": "/my-portfolio/static/media/HeroImage.52287cc9feeb145974ba.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.c55bdca2.css.map": "/my-portfolio/static/css/main.c55bdca2.css.map",
+    "main.e1e707ee.js.map": "/my-portfolio/static/js/main.e1e707ee.js.map",
+    "787.f91f1cc7.chunk.js.map": "/my-portfolio/static/js/787.f91f1cc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c55bdca2.css",
-    "static/js/main.8f7fbabe.js"
+    "static/js/main.e1e707ee.js"
   ]
 }
