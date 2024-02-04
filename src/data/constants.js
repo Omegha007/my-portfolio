@@ -2,7 +2,7 @@ export const Bio = {
   name: "Meghanathan A",
   roles: [
     "Full Stack Developer",
-    "Frontend Developer",
+    "React JS Developer",
     "Programmer",
   ],
   description:
@@ -44,11 +44,7 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
-      {
-        name: "jQuery",
-        image:
-          "https://w7.pngwing.com/pngs/662/163/png-transparent-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label-text-thumbnail.png",
-      },
+      
     ],
   },
   {
@@ -173,8 +169,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "",
+    webapp: "",
   },
  
   {
@@ -187,21 +183,21 @@ export const projects = [
       "https://rb.gy/s7kamb",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "",
+    webapp: "",
   },
   {
     id: 10,
-    title: "Job Finding App",
-    date: "Oct 2023",
+    title: "Random Password Generator",
+
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "Random Password Generator Created using JavaScript",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
+      "https://i.ibb.co/9YttqDr/random-pass.png",
+    tags: ["JAVASCRIPT"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "",
+    webapp: "",
   },
   {
     id: 4,
@@ -213,8 +209,8 @@ export const projects = [
       "http://surl.li/ojmoh",
     tags: ["React Js", "Firebase", "JavaScript"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "",
+    webapp: "",
   },
   {
     id: 5,
@@ -226,8 +222,8 @@ export const projects = [
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "",
+    webapp: "",
   },
   {
     id: 6,
@@ -239,16 +235,10 @@ export const projects = [
       "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
+    github: "",
+    webapp: "",
   },
   
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+

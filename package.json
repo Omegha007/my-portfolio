@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Omegha007.github.io/my-portfolio",
   
   "name": "portfolio-app",
   
@@ -80,11 +79,7 @@
   "test": "react-scripts test",
   
     
-  "eject": "react-scripts eject",
-
-  "predeploy": "npm run build",
-
-  "deploy": "gh-pages -d build"
+  "eject": "react-scripts eject"
   
   },
   
